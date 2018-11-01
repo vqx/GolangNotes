@@ -1,4 +1,4 @@
-# func type init
+# init func type 
 
 ```
 type Func fun(int)int
