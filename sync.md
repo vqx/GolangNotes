@@ -1,2 +1,2 @@
 # sync.Mutex
-一般不用指针
+don't use pointer
