@@ -14,10 +14,10 @@ type TypeB struct{
 有点像继承，但是不完全是  
 
 #go 指令 
-参考golang 1.11.6   
+e.g.:  golang版本 1.11.6   
 time.Sleep的实现   
 time/sleep.go:9 //这个只是声明    
-真正实现  
+真正实现代码位置  
 runtime/time.go:84  
 ```
 //go:linkname timeSleep time.Sleep
